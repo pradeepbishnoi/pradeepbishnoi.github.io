@@ -96,6 +96,21 @@ body {
     background: white;
 }
 
+[class^="icon-trophy"] {
+    text-align: center;
+    color: white;
+    background: black;
+    width: 72px !important;
+    border-radius: 10px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+[class^="icon-trophy"]:hover {
+    color: black;
+    background: white;
+}
+
 [class^="icon-pencil"] {
     text-align: center;
     color: orange;
