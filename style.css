@@ -15,7 +15,13 @@ body {
 #home {
     min-height: 100%;
     height: auto !important;
-    margin: 0 auto -3em;
+    margin: 100 0 0 0;
+}
+
+#mytimeline{
+    min-height: 100%;
+    height: auto !important;
+    margin: 0 auto -3em;    
 }
 
 #icons {
