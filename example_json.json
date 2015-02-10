@@ -19,9 +19,20 @@
                 }
             },
 			{
-                "startDate":"2013,12,30",
-                "headline":"",
-                "text":"",
+                "startDate":"2013,11,14",
+                "headline":"Bitzer Mobile acquired by Oracle",
+                "text":"we became memeber of the Oracle family with the acquisition of BitzerMobile team.",
+                "asset":
+                {
+                    "media":"http://www.oracle.com/us/corporate/acquisitions/bitzermobile/index.html",
+                    "credit":"",
+                    "caption":"Oracle Buys Bitzer Mobile"
+                }
+            },
+			{
+                "startDate":"2012,04,26",
+                "headline":"Joined BitzerMobile India",
+                "text":"Happy and excited to join the BitzerMobile India team as early employee (#8) and started leading the QA efforts towards building a worldclass Enterprise Mobility product.",
                 "asset":
                 {
                     "media":"",
@@ -30,20 +41,9 @@
                 }
             },
 			{
-                "startDate":"2012,12,25",
-                "headline":"",
-                "text":"",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-			{
-                "startDate":"2012,1,4",
-                "headline":"",
-                "text":"Test Data",
+                "startDate":"2012,04,24",
+                "headline":"Bye Bye - Thomson Reuters",
+                "text":"Decided to put my energy into a Startup and parting my way from Thomson Reuters. After 2 years of great learning & growth.",
                 "asset":
                 {
                     "media":"",
