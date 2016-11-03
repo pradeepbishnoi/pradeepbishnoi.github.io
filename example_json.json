@@ -8,6 +8,17 @@
 		"startDate":"1985,12,",
         "date": [
 			{
+                "startDate":"2016,07,04",
+                "headline":"Hello LeadSquared!",
+                "text":"Joining a SaaS based product Startup."
+            },
+		{
+                "startDate":"2016,03,06",
+		"endDate":"2016,04,17",
+                "headline":"Much Needed Break!",
+                "text":"Took the much needed break and Hiked Dhauladhar range in Himachal."
+            },
+		{
                 "startDate":"2016,03,04",
                 "headline":"Shukriya Oracle",
                 "text":"decided to quit Oracle to pursue my dream.",
